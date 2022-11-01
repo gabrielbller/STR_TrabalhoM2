@@ -6,41 +6,60 @@ Avaliação M2 – Concorrência e multithread em STR
 
 Instruções
 • Deverá ser usada as linguagens C/C++/Rust para o desenvolvimento.
+
 • Não será permitido o uso de bibliotecas ou funções prontas e disponibilizadas em base de
 dados ou em outros meios, salvo situações expressas no trabalho.
+
 • Os códigos desenvolvidos devem ser postados e estarem funcionais. Caso a aplicação não
 esteja correta, será atribuída nota proporcional ao trabalho.
+
 • O trabalho poderá ser feito sozinho ou em dupla.
+
 • O(s) aluno(s) deverá(ão) apresentar o trabalho presencialmente. Caso seja requisitado,
 deverão dar esclarecimentos adicionais. O não comparecimento a explicação, mesmo a
 adicional, implicará em nota máxima (proporcional ao desenvolvido) 5,0.
+
 • Trabalhos copiados implicará na nota zero para todos os envolvidos.
+
 • Não serão aceitos trabalhos entregues em atraso.
+
 • As aplicações desenvolvidas deverão exibir resultados corretos para qualquer caso de teste
 possível dentro do especificado pelo enunciado.
+
 • O código fonte deverá estar comentado para auxiliar o entendimento. A postagem deverá
 ser feita no github (repositório fechado) e deverá ser adicionado o professor como
 contribuidor do projeto. O usuário do professor é: VielF.
+
 • A responsabilidade pela demonstração do código funcionando é do(s) aluno(s).
+
 • Deverá ser entregue (postado) um relatório contendo: a) Identificação do autor e do trabalho;
 b) enunciado de cada projeto; c) imagens, tabelas e/ou quadros demonstrando os resultados
 obtidos; d) explicação dos resultados obtidos; e e) descrição das técnicas utilizadas. Poderá
 ser usado modelo de artigo, usando o template IEEE.
+
 • O trabalho deverá ser postado por um dos alunos no material didático.
+
 • O trabalho deverá ser postado no material didático até as 11h30 do dia 01/11/2022.
+
 • Itens avaliados:
+
 o Qualidade do relatório
 ▪ Apresentação, descrição do problema, utilização correta do português,
 profundidade de análise a partir das questões elencadas, diagramação (uso
 de imagens e diagrama para explicar);
+
 o Codificação totalmente funcional e atendimento aos requisitos.
+
 o Qualidade da apresentação do trabalho (presencialmente). Compilação do software
 no momento da apresentação é obrigatório.
+
 o Pontualidade.
+
 Parste 1 (2,0):
 Entregar a lista de exercícios da M2 respondida: Exercícios Sistemas de Tempo Real – M2.pdf.
 Essa lista pode ser entregue em um documento diferente do relatório de implementação.
 Parte 2 (8,0):
+
 Problemática
 Uma fabricante de automóveis quer testar um novo sistema de monitoramento do comportamento
 de várias áreas de um veículo no qual ela está projetando. O projeto é novo e permitirá controle e
